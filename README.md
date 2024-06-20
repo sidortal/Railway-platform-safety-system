@@ -36,7 +36,26 @@ This project offers a practical solution to enhance safety at railway platforms 
 
 ### Code File (.ino)
 
-- :file_folder: [Main Code File](https://github.com/sidortal/Ensuring-Railway-Platform-Safety/blob/main/Main_Code.ino)
+### Arduino Servo Motor Control Code
+
+Here's a simple Arduino code snippet to control a servo motor:
+
+```cpp
+#include <Servo.h>
+
+Servo gateServo;  // Create a Servo object to control the gate
+int gatePin = 9;  // Pin number where the servo is connected
+
+void setup() {
+  gateServo.attach(gatePin);  // Attach the servo to the specified pin
+}
+
+void loop() {
+  gateServo.write(90);  // Set the servo to 90 degrees
+  delay(3000);           // Wait for 3 seconds
+  gateServo.write(0);    // Set the servo to 0 degrees
+  delay(3000);           // Wait for 3 seconds
+}
 
 ### Images and Resources
 
