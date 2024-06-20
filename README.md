@@ -1,5 +1,9 @@
 ### Project Overview
 
+<div align="center">
+  <img src="https://github.com/sidortal/OBB-Expansion/blob/main/ServoGif.gif" />
+</div>
+
 This project ensures safety at railway platforms using an :microcontroller: **Arduino Uno** and a :servo_motor: **servo motor** to create a gate-like structure, preventing passengers from accessing the gap between the train and platform during boarding and off-boarding.
 
 ### Working Principle
@@ -24,6 +28,11 @@ This project ensures safety at railway platforms using an :microcontroller: **Ar
   - The code is optimized to respond to sensor inputs, triggering gate movement based on train presence.
 
 This project offers a practical solution to enhance safety at railway platforms by preventing accidents caused by passengers inadvertently stepping between the train and platform.
+
+<div align="center">
+  <img src="https://github.com/sidortal/OBB-Expansion/blob/main/servo_knob_test.gif" />
+</div>
+
 
 ### Code File (.ino)
 
