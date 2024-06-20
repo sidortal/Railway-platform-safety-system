@@ -43,7 +43,7 @@ This project offers a practical solution to enhance safety at railway platforms 
 ### Quick Jokes for Safety :laughing:
 
 - :guardsman: "Why did the safety gate bring a friend? It wanted to ensure it wasn’t traveling alone!"
-- :teacup: "Why did the safety gate bring a cup of tea? It needed to stay alert for any approaching trains!"
+- 🧋: "Why did the safety gate bring a cup of tea? It needed to stay alert for any approaching trains!"
 ### Code File (.ino)
 
 ### Arduino Servo Motor Control Code
