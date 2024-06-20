@@ -33,7 +33,17 @@ This project offers a practical solution to enhance safety at railway platforms 
   <img src="https://github.com/sidortal/OBB-Expansion/blob/main/servo_knob_test.gif" />
 </div>
 
+### Images and Resources
 
+- **Wiring Diagram:** :blue_book: [Wiring Diagram](https://github.com/sidortal/Railway-platform-safety-system/blob/main/Gerb%20File.png)
+- **Block Diagram:** :blue_book: [Block Diagram](https://github.com/sidortal/Railway-platform-safety-system/blob/main/Screenshot%202023-05-18%20200731.png)
+
+### Additional Resources
+
+### Quick Jokes for Safety :laughing:
+
+- :guardsman: "Why did the safety gate bring a friend? It wanted to ensure it wasn’t traveling alone!"
+- :teacup: "Why did the safety gate bring a cup of tea? It needed to stay alert for any approaching trains!"
 ### Code File (.ino)
 
 ### Arduino Servo Motor Control Code
@@ -57,14 +67,3 @@ void loop() {
   delay(3000);           // Wait for 3 seconds
 }
 
-### Images and Resources
-
-- **Wiring Diagram:** :blue_book: [Wiring Diagram](https://github.com/sidortal/Railway-platform-safety-system/blob/main/Gerb%20File.png)
-- **Block Diagram:** :blue_book: [Block Diagram](https://github.com/sidortal/Railway-platform-safety-system/blob/main/Screenshot%202023-05-18%20200731.png)
-
-### Additional Resources
-
-### Quick Jokes for Safety :laughing:
-
-- :guardsman: "Why did the safety gate bring a friend? It wanted to ensure it wasn’t traveling alone!"
-- :teacup: "Why did the safety gate bring a cup of tea? It needed to stay alert for any approaching trains!"
